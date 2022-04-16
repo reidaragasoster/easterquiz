@@ -22,7 +22,7 @@ nr 5 på kart "rundt"   <br>
 nr 6 på kart - Ta kontakt med Linnea på "Yes vi leker!!" som gir dem ordet:  "Sier"  og gir dem kart til nr 7 <br>
 nr 7 på kart - Klatrestativ  (  på nummer 7 får de beskjed om å ringe Trond . De må oppgi kode "Apen kan fly veldig langt" . <br>
 
-Marius må svare på 3 spørsmål.  <br>
+Marius må svare på disse pørsmålene.  <br>
 
 - Spørsmål 1 - Hvor mye er 8 minus 2 <br>
  - Svar: 6 <br>
@@ -34,6 +34,15 @@ Marius må svare på 3 spørsmål.  <br>
  - Svar: Pinnsvin
  - Spørsmål 5 - Fortell hva du heter på Engelsk
  - Svar: My name is Marius
+
+Malin må svare på disse spørsmålene:
+ - Spørsmål 1 - Hva synger Karpe : «Lett å være ..... i kjellerleiligheten din»
+ - Svar Rebell
+
+Mia må svare på disse spørsmålene:
+ - Spørsmål 1 - Hva liker Apen å dele
+ - Svar Snått
+ - 
 
 <br> Ved riktige svar, får de oppgitt neste ord:  "<b>Dubo</b>".   <br> 
 De vet da at de skal finne Dubo som er hjemme en plass i huset.<br> 
