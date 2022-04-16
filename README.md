@@ -14,7 +14,7 @@ rundt  (5)
 sier (6)
 dubo  (7)
  
-lapp 1 på kart og  *
+lapp 1 på kart og  * <br>
 lapp 2 på kart går *
 lapp 3 på kart det *
 lapp 4 på kart rundt *
