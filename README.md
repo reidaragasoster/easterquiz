@@ -32,6 +32,8 @@ Marius må svare på 3 spørsmål.  <br>
  - Svar: Sonic <br>
  - Spørsmål 4 - Hvilket dyr er Sonic
  - Svar: Pinnsvin
+ - Spørsmål 5 - Fortell hva du heter på Engelsk
+ - Svar: My name is Marius
 
 <br> Ved riktige svar, får de oppgitt neste ord:  "<b>Dubo</b>".   <br> 
 De vet da at de skal finne Dubo som er hjemme en plass i huset.<br> 
