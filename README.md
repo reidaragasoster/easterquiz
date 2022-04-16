@@ -7,9 +7,14 @@ Tema: Sonic Speed
 print ut disse ordene
 nr 7 må tas til slutt
 
-det går rundt og rundt sier dubo
- 1    2       3      4      5      6       7
-
+det  1
+går  2
+rundt  3
+og 4
+rundt  5
+sier 6
+dubo  7
+ 
 lapp 1 på kart og  *
 lapp 2 på kart går *
 lapp 3 på kart det *
