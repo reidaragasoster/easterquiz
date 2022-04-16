@@ -30,8 +30,10 @@ Marius må svare på 3 spørsmål.  <br>
  - Svar: Ett åttetall som ligger.   <br>
  - Spørsmål 3 - Hvem er raskest av Silver, Knuckles eller Sonic  <br>
  - Svar: Sonic <br>
+ - Spørsmål 4 - Hvilket dyr er Sonic
+ - Svar: Pinnsvin
 
-<br> Da får de neste svar på lappen som er Dubo.   <br> 
+<br> Ved riktige svar, får de oppgitt neste ord:  "<b>Dubo</b>".   <br> 
 De vet da at de skal finne Dubo som er hjemme en plass i huset.<br> 
 
 Dubo har lapper  med bokstavene B o d e n ... som de må stokke om til  B o d e n<br> 
