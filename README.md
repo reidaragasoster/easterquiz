@@ -21,15 +21,16 @@ lapp 2 på kart "går"   <br>
 lapp 3 på kart "det"  <br>
 lapp 4 på kart "rundt"   <br>
 lapp 5 på kart "rundt"   <br>
-lapp 6 på kart Ta kontakt med Linnea på "Yes vi leker!!" som gir dem Orden:  "Sier"  og gir dem kart til lapp 7
-lapp 7 på kart - Klatrestativ  (  på lapp 7 får de beskjed om å ringe Trond . De må oppgi kode "Apen kan fly veldig langt" . Marius må svare på 3 spørsmål.  Hvor mye er 8 minus 2 og hva som er det største tallet : svar åttetall som ligger.   Hvem er raskest av Silver, Knuckles eller Sonic  : riktig svar er Sonic
-Da får de neste svar på lappen som er Dubo
+lapp 6 på kart - Ta kontakt med Linnea på "Yes vi leker!!" som gir dem Orden:  "Sier"  og gir dem kart til lapp 7 <br>
+lapp 7 på kart - Klatrestativ  (  på lapp 7 får de beskjed om å ringe Trond . De må oppgi kode "Apen kan fly veldig langt" . Marius må svare på 3 spørsmål.  Hvor mye er 8 minus 2 og hva som er det største tallet : svar åttetall som ligger.   Hvem er raskest av Silver, Knuckles eller Sonic  : riktig svar er "Sonic" <br>
 
-Dubo har lapper  med bokstavene B o d e n 
+<br> Da får de neste svar på lappen som er Dubo.   
+De vet da at de skal finne Dubo som er hjemme en plass i huset.
 
-Stokkes om til Boden
+Dubo har lapper  med bokstavene B o d e n ... som de må stokke om til  B o d e n
 
-(Skatten ligger der)
+(Det er plassen PåskeSonic har gjemt Skatten )
+
 
 
 
