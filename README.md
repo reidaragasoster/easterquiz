@@ -14,8 +14,6 @@ rundt  (5)
 sier (6)
 dubo  (7)
  
-Kart har ...
-
 nr 1 på kart "og"   <br>
 nr 2 på kart "går"   <br>
 nr 3 på kart "det"  <br>
